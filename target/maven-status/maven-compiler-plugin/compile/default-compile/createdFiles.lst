@@ -1,0 +1,3 @@
+com\example\demo\ExampleApplication.class
+com\example\demo\controller\WelcomeController.class
+com\example\demo\ServletInitializer.class
